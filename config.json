@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "routersetch",
+        "uuid": 27715635,
+        "checksum": "ncnt9d"
+    },
+    "settings": {
+        "retries": 3,
+        "enabled": true,
+        "mode": "production"
+    }
+}
